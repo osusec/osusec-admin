@@ -326,8 +326,8 @@ and an agent of the University.
 Advisor (VII)
 ============
 
-The Linux Users Group shall have at least one faculty advisor, who is a member
-of the University faculty or Administrative & Professional staff.
+The Oregon State Security Club shall have at least one faculty advisor, who is
+a member of the University faculty or Administrative & Professional staff.
 
 Advisors shall be chosen by consensus of officers and the sponsoring unit of
 the University.
