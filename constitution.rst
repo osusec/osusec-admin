@@ -66,8 +66,8 @@ ethics adopted by the organization. Any person found violating the code of
 ethics will have membership revoked and they will be banned from attending any
 official organization events in the future.
 
-Membership (IV)
-===============
+Membership (III)
+=================
 
 Eligibility for Membership (1)
 ------------------------------
@@ -87,7 +87,9 @@ Privacy of Members (3)
 ----------------------
 
 No member's personal information shall be disclosed without their explicit
-consent.
+consent. The roster of members is hosted on OSU resources and is used
+internally for reporting purposes. Signing up as a member serves as consent for
+their information to be used for reporting purposes.
 
 Dues (4)
 --------
@@ -130,7 +132,7 @@ Voting Procedures (5)
 All votes shall require a quorum of the voting members and will be run by the
 secretary through rule of order, either vocally or by show of hands.
 
-Officers (V)
+Officers (IV)
 ==============
 
 Officer Titles (1)
@@ -147,9 +149,9 @@ Officer Election (2)
 --------------------
 
 Officers shall be nominated during a 30 day period of time, to be chosen by
-the current officers, during Fall, Winter, or Spring term of each year. At the
-end of the nomination period, a ballot shall be held, and the candidates
-receiving the most votes shall be named to their respective offices.
+the current officers, during Fall term of each year. At the end of the
+nomination period, a ballot shall be held, and the candidates receiving the
+most votes shall be named to their respective offices.
 
 The nomination period, and the date of the ballot shall be publicly announced
 at meetings and on the Organization's mailing list. The nomination period
@@ -158,10 +160,10 @@ shall be chosen and announced at least one week in advance.
 Nominations (3)
 ^^^^^^^^^^^^^^^^^
 
-Any voting member may nominate any voting member for any office.
-Self-nomination is permitted. Candidates must explicitly accept nominations.
-Acceptance of nomination implies commitment to fulfill all duties of one term
-of office if elected.
+Any member may nominate any member for any office.  Self-nomination is
+permitted. Candidates must explicitly accept nominations.  Acceptance of
+nomination implies commitment to fulfill all duties of one term of office if
+elected.
 
 Ties (3.1)
 ^^^^^^^^^^
@@ -242,7 +244,7 @@ The Webmaster will be responsible for the creation, design, hosting, and
 maintenance of the Organization's web presence, either directly or by
 delegation.
 
-Standing Committees (VI)
+Standing Committees (V)
 ========================
 
 Purpose (1)
@@ -264,21 +266,21 @@ Permanence (3)
 No Standing Committee shall be permanent. All Standing Committees must disband
 after a time to be decided at the formation of the committee.
 
-Termination (VII)
+Termination (VI)
 ===============
 
 Vote of No Confidence (1)
 -------------------------
 
-A vote of no confidence may be called by any Student Member during any meeting
-to question the eligibility or qualifications of an officer or member of a
+A vote of no confidence may be called by any member during any meeting to
+question the eligibility or qualifications of an officer or member of a
 standing committee. A vote of no confidence shall be conducted by the
 secretary, in a manner that allows for secret ballots. If the officer or member
 conducting the vote of no confidence has a conflict of interest, then the
 highest ranking officer or member without a conflict of interest shall conduct
 the vote of no confidence. A vote of no confidence requires a majority of a
-quorum of voting members. In the case the vote is successful, the officer or
-member will be immediately removed from the club.  In the event an officer is
+quorum of voting members. In the case the vote is successful, the officer will
+be immediately removed from office or the club.  In the event an officer is
 removed from the club, the office will be considered vacant.
 
 Illegal or Discriminatory Termination (2)
@@ -289,8 +291,8 @@ from the group violates the stated Anti-Discrimination Policy, their
 termination shall be stayed pending review by the officers of the Organization
 and an agent of the University.
 
-Advisor (VIII)
-============
+Advisor (VII)
+=============
 
 The Oregon State Security Club shall have at least one faculty advisor, who is
 a member of the University faculty or Administrative & Professional staff.
@@ -303,14 +305,14 @@ Organization activity; to prevent the Organization from acting contrary to the
 sponsoring unit's goals; and to enable the Organization to more effectively
 represent the University.
 
-Meetings of the Organization (IX)
-==================================
+Meetings of the Organization (VIII)
+====================================
 
 Official meetings shall be held once per week, unless no officers are
 available to run the meeting, or quorum cannot be met. Meetings cannot be held
 during dead week or finals week.
 
-Constitutional Amendment (X)
+Constitutional Amendment (IX)
 ===============================
 
 This constitution may be amended at any regular meeting by a majority vote of
@@ -319,7 +321,7 @@ be submitted in writing, must be read in full to the assembled constituency
 during the meeting, must be in patch form, and must cleanly apply to the most
 recent copy of this constitution.
 
-Parliamentary Procedure (XI)
+Parliamentary Procedure (X)
 ============================
 
 Aside from the following exceptions, the Rule of Order shall determine the
@@ -338,8 +340,8 @@ Chairman (2)
 The highest-ranking officer present shall preside over meetings. They may
 yield running of the meeting to a volunteer.
 
-Constitutional Authority (XII)
-============================
+Constitutional Authority (XI)
+==============================
 
 Law of the Land (1)
 -------------------
